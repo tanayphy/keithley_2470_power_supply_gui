@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 tanayphy
+Copyright (c) 2024 Tanay Dey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional Terms:
+The author of this code retains all rights to the intellectual property contained within. 
+Any unauthorized use, modification, or distribution of this code may result in legal action.
+
+Please respect the author's rights and adhere to the following guidelines:
+
+ Disclaimer:
+This code is provided "as-is" and without warranty of any kind, express or implied. 
+The author assumes no responsibility for any damages or consequences arising from the use of this code.
+
+Modification:
+
+Any modifications made to this code should be documented and attributed to the original author. 
+Prior permission for significant changes is recommended.  
+Please contact the author at tanay.phys@gmail.com to discuss modifications.
+
+Citation:
+If you use this code in your research or presentations, please cite it by referencing this GitLab repository: 
+https://gitlab.cern.ch/tdey/keithley_2470_power_supply_gui.git.
+
+By using this code, you agree to abide by these terms.
+
+Author: Dr. Tanay Dey
+Present Affiliation: SAHA INSTITUTE OF NUCLEAR PHYSICS, KOLKATA, INDIA
+

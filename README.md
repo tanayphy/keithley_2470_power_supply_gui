@@ -1,2 +1,5 @@
-# keithley_2470_power_supply_gui
-A GUI PROGRAM TO CONTROL KEITHLEY 2470 POWER SUPPLY
+# SIMPLE GUI PROJECT
+
+This is a basic code to develope a gui sofware to control a power supply (Keithley 2470). 
+Please read terms and conditions before use this software.
+
